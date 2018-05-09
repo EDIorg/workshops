@@ -1,0 +1,1 @@
+This repository holds important information related to the hands-on workshop “Creating EML with R and publishing data packages in the EDI repository" (June 5-7, 2018 University of New Mexico-Albuquerque).
