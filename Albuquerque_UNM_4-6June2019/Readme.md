@@ -4,6 +4,8 @@ Contact: Susanne Grossman-Clarke (grossmanclar@wisc.edu) with any questions.
 
 List of important links:
 
+Agenda
+
     Agenda
     List of Participants
     Logistics
