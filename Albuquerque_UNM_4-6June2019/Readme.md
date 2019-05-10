@@ -7,7 +7,6 @@
 * [List of Participants](https://github.com/EDIorg/workshops/blob/master/Albuquerque_UNM_4-6June2019/Participants.md)
 * [Logistics](https://github.com/EDIorg/workshops/wiki/Logistics)
 * Workshop presentations
-* [EDI Code of Conduct](https://environmentaldatainitiative.org/about/environmental-data-initiative-code-of-conduct/)
-* <a href="https://environmentaldatainitiative.org/about/environmental-data-initiative-code-of-conduct/" target="_blank">EDI Code of Conduct</a>
+* [EDI Code of Conduct](https://environmentaldatainitiative.org/about/environmental-data-initiative-code-of-conduct/){:target="_blank"}
 
 **Contact: Susanne Grossman-Clarke (grossmanclar@wisc.edu) with any questions.**
