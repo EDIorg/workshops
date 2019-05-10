@@ -1,5 +1,5 @@
 ## EDI Workshop “Publishing data packages in the EDI repository”
- ###June 4-6, 2019, University of New Mexico in Albuquerque, NM
+ ### June 4-6, 2019, University of New Mexico in Albuquerque, NM
 
 **List of important links:**
 
