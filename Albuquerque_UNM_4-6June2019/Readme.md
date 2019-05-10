@@ -4,7 +4,7 @@ Contact: Susanne Grossman-Clarke (grossmanclar@wisc.edu) with any questions.
 
 List of important links:
 
-Agenda
+Agenda (https://github.com/EDIorg/workshops/blob/master/Albuquerque_UNM_4-6June2019/Agenda.md)
 
     Agenda
     List of Participants
