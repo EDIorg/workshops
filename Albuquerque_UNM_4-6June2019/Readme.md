@@ -1,4 +1,15 @@
-Workshop information
+EDI Workshop “Publishing data packages in the EDI repository” will be held June 4-6, 2019 at the University of New Mexico in Albuquerque, NM.
+
+Contact: Susanne Grossman-Clarke (grossmanclar@wisc.edu) with any questions.
+
+List of important links:
+
+    Agenda
+    List of Participants
+    Logistics
+    Workshop presentations
+    EDI Code of Conduct
+
 
 
 | Participants    | Organization  | Email |
