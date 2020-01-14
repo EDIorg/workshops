@@ -2,18 +2,21 @@ List of Participants
 
 | Participants    | Organization  | Email |
 |:----------------|:-------------:|:-----:|
-|Vanessa Bailey   |EDI fellow: Baruch Institute of Coastal Ecology and Forest Science|vanessajbailey@gmail.com|
-|Alexis Garretson |EDI fellow: Mohonk Preserve|alexis@garretson.net|
-|Craig Garzella    |EDI fellow: University of Wyoming-NPS Research Station|craig.garzella@valpo.edu|
-|Jana Gedymin Viel|EDI fellow: University of Wisconsin Milwaukee/Carroll University|jgedymin@uwm.edu|
-|Amalia Handler|EDI fellow: Flathead Lake Biological Station|amhandle@asu.edu|
-|Katherine Le|EDI fellow: Lacawac Sanctuary and Biological Field Station|katherinele@ucsb.edu|
-|Maureen Lynch|EDI fellow: Adirondack Ecological Center|maureen.a.lynch@stonybrook.edu|
-|Katherine Qi|EDI fellow: NES-LTER|klqi@ucsd.edu|
-|Georgia Titcomb|EDI fellow: Sagehen Creek Field Station|georgiatitcomb@googlemail.com|
-|Greg Maurer|Jornada Basin LTER|gregmaurer@berkeley.edu|
-|Alesia Hallmark|Sevilleta LTER|alesiahallmark@unm.edu|
-|Sylvia Kim|UCSB|sylvia.kim@ucsb.edu|
-|Samantha Thomas|EPSCoR MAPS project|sgthomas@ku.edu|
-|Susanne Grossman-Clarke|UW-Madison/EDI|grossmanclar@wisc.edu|
-|Colin Smith|UW-Madison/EDI|csmith@wisc.edu|
+|Bohm, Sven | bohms@msu.edu | KBS LTER|
+|Brooks, Andy |ajbrooks@ucsb.edu | UCSB, MCR LTER|
+|Henshaw, Donald | don.henshaw@oregonstate.edu | AND LTER|
+|Corinna Gries | cgries@wisc.edu | NTL LTER, EDI|
+|Susanne Grossman-Clarke | grossmanclar@wisc.edu | EDI, UW-Madison|
+|Colin Smith | csmith@wisc.edu | EDI, UW-Madison|
+|Adam Sapp | asapp@uga.edu| UGA, GCE LTER|
+|Julia Jones | geojulia@comcast.net|
+|Julien Brun | brun@nceas.ucsb.edu |
+|Kristin Vanderbilt | krvander@fiu.edu |
+|Nina Lany | Nina.Lany@usda.gov | FS|
+|Linda Rustad | lrustad@fs.fed.us lrustad@fs.fed.us | FS|
+|Margaret O'Brien | margaret.obrien@ucsb.edu | EDI UCSB|
+|Renee Brown | rfbrown@unm.edu | UNM MCM LTER|
+|Suzanne Remillard | suzanne.remillard@oregonstate.edu | AND LTER|
+|Wade Sheldon | sheldon@uga.edu | UGA, GCE LTER|
+|Whiteaker, Timothy | whiteaker@utexas.edu | UTexas, BLE LTER|
+|Yang Xia | yangx@ksu.edu | KNZ LTER|
