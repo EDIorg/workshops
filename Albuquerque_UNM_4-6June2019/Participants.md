@@ -13,7 +13,7 @@ List of Participants
 |Julien Brun | brun@nceas.ucsb.edu | NCO|
 |Kristin Vanderbilt | krvander@fiu.edu | FCE LTER|
 |Nina Lany | Nina.Lany@usda.gov | FS|
-|Linda Rustad | lrustad@fs.fed.us lrustad@fs.fed.us | FS|
+|Linda Rustad | lrustad@fs.fed.us | FS|
 |Margaret O'Brien | margaret.obrien@ucsb.edu | EDI |
 |Renee Brown | rfbrown@unm.edu | MCM LTER|
 |Suzanne Remillard | suzanne.remillard@oregonstate.edu | AND LTER|
