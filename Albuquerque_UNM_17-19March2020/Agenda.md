@@ -32,23 +32,23 @@
   </tr>
   <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-  <td><ul><li>Outreach<ul><li>Twitter</li><li>Website</li></ul></li>
-      <li>Education<ul><li>Graduate seminar</li><li>Online interactive training resources</li><li>Workshops</li></ul></li></ul>
+  <td><ul><li>Outreach: Twitter, Website</li>
+      <li>Education: Graduate seminar, Online interactive training resources, Workshops</li></ul>
    </td>
  </tr>
-    <td><strong>Thu 19 March 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
+    <td><strong>Thu 19 March 2020</strong></td><td><strong>  Specific Efforts & Discussion</strong></td>
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
-    <td><strong>Presentation:</strong> <i>“Overview of the EDI data repository and data portal (and how to use it for publishing data)”</i> (Colin)<br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.   </td>
+    <td><ul><li>Information Management Code Registry & hackathons</li><li>Thematic Standardization</li></ul></td>
  </tr>
  <tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
-    <td>Lunch on your own</td>
+    <td>Lunch</td>
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
+    <td><ul><li>Vision for EDI</li><li>Wrap up</li></ul>
    </td>
  </tr>
 </table>
