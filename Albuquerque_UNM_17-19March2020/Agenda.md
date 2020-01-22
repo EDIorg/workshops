@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td nowrap><strong>Tue, 4 June 2019</strong></td>
+    <td nowrap><strong>Tue, 17 March 2020</strong></td>
     <td><strong>Organizing and cleaning data</strong></td>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
    </td>
  </tr>
   <tr>
-    <td nowrap><strong>Wed 5 June 2019</strong></td><td><strong>Creating EML metadata</strong></td>
+    <td nowrap><strong>Wed 18 March 2020</strong></td><td><strong>Creating EML metadata</strong></td>
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
@@ -37,7 +37,7 @@
     <td><strong>Continued hands-on:</strong> Creating EML using “EMLassemblyline”
    </td>
  </tr>
-    <td><strong>Thu 6 June 2019</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
+    <td><strong>Thu 19 March 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
