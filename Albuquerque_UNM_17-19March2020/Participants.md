@@ -1,7 +1,7 @@
 List of Participants
 
-| Participants    | Organization  | Email |
-|:----------------|:-------------:|:-----:|
+| Participants    | Email         |
+|:----------------|:-------------:|
 |James Brunt | jbrunt@unm.edu |
 |Corinna Gries | cgries@wisc.edu |
 |Susanne Grossman-Clarke | grossmanclar@wisc.edu |
