@@ -3,7 +3,8 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 17 March 2020</strong></td>
-    <td><strong>Organizing and cleaning data</strong></td>
+    <td><strong>Data Repository, Data Policy, EDI Business Model
+</strong></td>
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
@@ -11,11 +12,11 @@
    </td>
  </tr>
  <tr>
-    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch on your own</td>
+    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch</td>
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><strong>Hands-on:</strong> Formatting and cleaning data.<br><strong>Group discussion:</strong> Data set problems and solutions.
+    <td><strong>Data policy update</strong> EDI Sustainability/business model.<br>
    </td>
  </tr>
   <tr>
