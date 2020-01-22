@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-  <td><ul><li>Outreach<li><ul><li>Twitter</li><li>Website</li></ul></li>
+  <td><ul><li>Outreach<ul><li>Twitter</li><li>Website</li></ul></li>
       <li>Education<ul><li>Graduate seminar</li><li>Online interactive training resources</li></li>Workshops</li></ul></li></ul>
    </td>
  </tr>
