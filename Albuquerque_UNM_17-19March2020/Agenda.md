@@ -48,7 +48,7 @@
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><ul><li>Vision for EDI</li><li>Wrap up</li></ul>
+    <td><ul><li>Discussion: Vision for EDI</li><li>Wrap up</li></ul>
    </td>
  </tr>
 </table>
