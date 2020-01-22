@@ -32,7 +32,8 @@
   </tr>
   <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><strong>Continued hands-on:</strong> Creating EML using “EMLassemblyline”
+    <td><ul><li>Outreach<li>Twitter</li><li>Website</li></li>
+      <li>Education<li>Graduate seminar</li><li>Online interactive training resources</li></li>Workshops</li></li></ul>
    </td>
  </tr>
     <td><strong>Thu 19 March 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
