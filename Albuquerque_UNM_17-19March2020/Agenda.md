@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
-    <td><strong>Welcome</strong><br><ul><li>Review agenda.</li><li>EDI data repository: technical developments.
+    <td><ul><li>Welcome</li><br><li>Review agenda.</li><li>EDI data repository: technical developments.</ul>
    </td>
  </tr>
  <tr>
