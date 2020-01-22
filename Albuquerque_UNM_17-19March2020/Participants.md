@@ -1,6 +1,6 @@
-List of Participants
+## List of Participants
 
-| Participants    | Email         |
+| Participant    | Email         |
 |:----------------|:-------------:|
 |James Brunt | jbrunt@unm.edu |
 |Corinna Gries | cgries@wisc.edu |
