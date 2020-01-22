@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
-    <td><ul><li>Welcome</li><br><li>Review agenda.</li><li>EDI data repository: technical developments.</ul>
+    <td><ul><li>Welcome and review agenda.</li><li>EDI data repository: technical developments.</ul>
    </td>
  </tr>
  <tr>
@@ -16,7 +16,7 @@
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><strong>Data policy update</strong> EDI Sustainability/business model.<br>
+    <td><ul><li>Data policy update</li><li>EDI Sustainability/business model.</ul></li>
    </td>
  </tr>
   <tr>
