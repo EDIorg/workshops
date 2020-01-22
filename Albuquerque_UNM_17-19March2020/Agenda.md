@@ -20,7 +20,7 @@
    </td>
  </tr>
   <tr>
-    <td nowrap><strong>Wed 18 March 2020</strong></td><td><strong>Creating EML metadata</strong></td>
+    <td nowrap><strong>Wed 18 March 2020</strong></td><td><strong>Data Curation, Outreach & Training</strong></td>
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
