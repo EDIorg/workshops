@@ -1,3 +1,5 @@
-**EDI Team Meeting
+## EDI Team Meeting
+
+March 17-19, 2020
 University of New Mexico, Albuquerque, NM
-March 10-12, 2020
+
