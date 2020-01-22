@@ -24,14 +24,11 @@
   </tr>
   <tr>
     <td nowrap>8:30 am - 12:30 pm</td>
-    <td><strong>Presentation:</strong> <i>"What are metadata and structured metadata”</i> (Colin)
-<br><strong>Hands-on:</strong> Edit/refine metadata in the EDI template.
-<br>
-<br><strong>Presentation:</strong> <i>“Make metadata with the EMLassemblyline”</i> (Susanne)<br><strong>Hands-on:</strong> Creating EML using “EMLassemblyline”.
+    <td><ul><li>Data curation strategy</li><li>Data curation tools</ul></li>
    </td>
  </tr>
  <tr>
-    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch on your own</td>
+    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch</td>
   </tr>
   <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
