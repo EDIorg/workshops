@@ -9,9 +9,9 @@ List of Participants
 |Picon, Monique | mopicon@gmail.com | LUQ LTER|
 |**EDI Summer 2020 Fellows**|||
 |Johnson,	Eric	| cej9@iu.edu	|| OTS
-|Frick,	Madeleine |	mfrick@ucsb.edu	| Cal. Dep. Fish &Wildlife
-|Haywood,	Nathan	| nhaywood@umass.edu	| LTER SOM
-|Lewis,	Sydney	| sydneyl7@hawaii.edu	| NREL CSU
+|Frick,	Madeleine |	mfrick@ucsb.edu	|| Cal.Fish&Wildlife
+|Haywood,	Nathan	| nhaywood@umass.edu	|| LTER SOM
+|Lewis,	Sydney	| sydneyl7@hawaii.edu	|| NREL CSU
 |Pavelka,	Claire	|cpavelka@scu.edu	UC || SNARL
 |Pawlik,	Alex	|alexandria.pawlik@gmail.com	|| UMBS
 |Salva,	Melissa	| melissa.salva1@upr.edu	|| OTS
