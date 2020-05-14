@@ -7,7 +7,7 @@ List of Participants
 |Gill, Sadie	| sgill@flowwest.com | CVPIA |
 |Lewis-Smith, Bryce |	blewissmith@oxy.edu	| OTS | OTS, Deedra McClearn |
 |Picon, Monique | mopicon@gmail.com | LUQ LTER|
-|**EDI Summer 2020 Fellows**|||
+|**EDI Fellows**|||
 |Johnson,	Eric	| cej9@iu.edu	| IU | OTS, Deedra McClearn |
 |Frick,	Madeleine |	mfrick@ucsb.edu	| UCSB | Cal.Fish&Wildlife, Jereme Gaeta |
 |Haywood,	Nathan	| nhaywood@umass.edu	| UMass Amherst | LTER SOM, Stevan Earl |
