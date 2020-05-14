@@ -2,7 +2,7 @@
 
 **EDI Zoom, June 9-11, 2020**
 
-**Important links:**
+**Important information:**
 
 * [Agenda](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_7-11June2020/Agenda.md)
 * [List of Participants](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_7-11June2020/Participants.md)
