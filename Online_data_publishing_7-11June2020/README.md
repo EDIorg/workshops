@@ -1,6 +1,6 @@
-##EDI Online Workshop “Publishing data packages in the EDI repository”
+## EDI Online Workshop “Publishing data packages in the EDI repository”
 
-**June 9-11, 2020
+**EDI Zoom, June 9-11, 2020
 
 **Important links:
 
