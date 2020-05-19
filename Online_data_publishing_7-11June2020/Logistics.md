@@ -10,5 +10,13 @@ Coming soon!
 **Other applications and software**
 
 * Slack (business communication platform for instant messaging)
+* R or R-Studio
 * Oxygen editor (for editing XML files)
+
+**Relevant links**
+
+* https://environmentaldatainitiative.org/
+* https://twitter.com/EDIgotdata
+* https://github.com/EDIorg
+
 
