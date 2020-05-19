@@ -2,7 +2,7 @@
 
 Coming soon!
 
-**Good practices for an online workshop**
+**Good practices when participating in an online workshop**
 
 * Keep bandwidth high by closing unnecessary applications
 * Keepyour video turned on
