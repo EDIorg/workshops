@@ -1,9 +1,14 @@
 **Zoom connection**
 
-Slack
-Oxygen editor
+Coming soon!
 
-**Good practices**
+**Good practices for an online workshop**
 
-Keep bandwidth high
-Keep video turned on
+Keep bandwidth high by closing unnecessary applications
+Keepyour video turned on
+
+**Other applications and software**
+
+Slack (business communication platform for instant messaging)
+Oxygen editor (for editing XML files)
+
