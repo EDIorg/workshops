@@ -6,15 +6,11 @@
        <td><strong>"The EDI project" and "Organizing & cleaning data"</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:00 am - 9:15 pm</td>
+    <td nowrap>8:00 am - 10:00 pm</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li>
       <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
-</tr></td>
-  <tr>
-    <td nowrap>9:15 am - 10:00 pm</td>      
-    <td>
-      <strong>Five phases of data publishing - (1)</strong><br><ul>
+       <strong>Five phases of data publishing - (1)</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li>
    </td>
