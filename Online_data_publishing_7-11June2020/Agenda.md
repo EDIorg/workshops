@@ -12,6 +12,7 @@
     <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
   </tr>
   <tr>
+    <td>
       <strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
    </td>
  </tr>
