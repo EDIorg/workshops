@@ -19,6 +19,8 @@ Coming soon!
 * https://portal.edirepository.org
 * https://github.com/EDIorg
 * https://twitter.com/EDIgotdata
+* https://www.youtube.com/channel/UCNZoWPaMG6lkEiH8xRNnrrA
+* Slack:
 
 * https://www.go-fair.org/go-fair-initiative/
 
