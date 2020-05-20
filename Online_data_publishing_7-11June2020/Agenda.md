@@ -23,28 +23,20 @@
     <td><strong>Assessment activity</strong><br><ul>
       <li>Review your data: Analyze structure and plan organizing data into a data package.</li></ul>
       <strong>Five phases of data publishing - (2)</strong><br><ul>
-         <li><i>“Create clean data ”</i></li>
+         <li><i>“Create clean data”</i></li>
    </td>
  </tr>
-
  <tr>
     <td nowrap>11:45 pm - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
-    <td nowrap>1:00 pm - 1:45 pm</td>
-    <td><strong>Exercise:</strong> Work in pairs: Data Carpentry Lesson: How would this dataset be cleaned?
-   </td>
- </tr>
- <tr>
-    <td nowrap>1:45 pm - 2:50 pm</td>
-    <td><strong>Hands-on:</strong></td>
+    <td nowrap>1:00 pm - 2:50 pm</td>
+    <td><strong>Exercise:</strong> Work in pairs: Data Carpentry Lesson: How would this dataset be cleaned?</td>
  </tr>
  <tr>
     <td nowrap>2:50 pm - 3:00 pm</td>
     <td><strong>Conclude day 1</strong></td>
  </tr>
- 
- 
  
   <tr>
     <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Creating EML metadata</strong></td>
