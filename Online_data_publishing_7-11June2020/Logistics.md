@@ -18,5 +18,6 @@ Coming soon!
 * https://environmentaldatainitiative.org/
 * https://twitter.com/EDIgotdata
 * https://github.com/EDIorg
+* https://portal.edirepository.org
 
 
