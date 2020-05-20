@@ -16,8 +16,7 @@
     <td>
       <strong>Five phases of data publishing - (1)</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
-  <li><strong>Exercise:</strong> <i>Survey on organizing data into publishable units</i></li>
-        <li><i>“Organizing data into publishable units”</i> </li>
+        <li><i>“Organizing data into publishable units”</i></li>
    </td>
  </tr>
        <tr>
