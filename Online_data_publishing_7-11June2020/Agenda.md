@@ -16,7 +16,7 @@
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
       <strong>Five phases of data publishing - (1)</strong><br><ul>
-         <li><i>“Concept of data package”</i></li>
+         <li><i>“Concept of a data package”</i></li>
   <li><strong>Exercise:</strong> <i>Survey on organizing data into publishable units</i></li>
         <li><i>“Organizing data into publishable units”</i> </li>
    </td>
@@ -25,24 +25,25 @@
     <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
   </tr>
   <tr>
-    <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome</strong><br><ul>
-      <li>Workshop agenda, goals, technical setup</li>
+    <td nowrap>10:15 am - 11:15 pm</td>
+    <td><strong>Assessment activity. Participants</strong><br><ul>
+      <li>Review their own data</li>
+      <li>Analyze structure of own datasets</li>
+      <li>Report to each other how they plan to organize their data package.</li>
+</li>
       <li><i>"Introduction to EDI"</i></li>
       <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
 </tr></td>
   <tr>
-    <td nowrap>9:15 am - 10:00 pm</td>      
+    <td nowrap>11:15 am - 11:45 pm</td>      
     <td>
-      <strong>Five phases of data publishing - (1)</strong><br><ul>
-         <li><i>“Concept of data package”</i></li>
-  <li><strong>Exercise:</strong> <i>Survey on organizing data into publishable units</i></li>
-        <li><i>“Organizing data into publishable units”</i> </li>
+      <strong>Five phases of data publishing - (2)</strong><br><ul>
+         <li><i>“Create_clean_data ”</i></li>
    </td>
  </tr>
 
  <tr>
-    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch on your own</td>
+    <td nowrap>11:45 pm - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
