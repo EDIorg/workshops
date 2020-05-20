@@ -16,8 +16,10 @@ Coming soon!
 **Relevant links**
 
 * https://environmentaldatainitiative.org/
-* https://twitter.com/EDIgotdata
-* https://github.com/EDIorg
 * https://portal.edirepository.org
+* https://github.com/EDIorg
+* https://twitter.com/EDIgotdata
+
+* https://www.go-fair.org/go-fair-initiative/
 
 
