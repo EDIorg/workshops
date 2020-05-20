@@ -29,9 +29,6 @@
       <li>Review their own data</li>
       <li>Analyze structure of own datasets</li>
       <li>Report to each other how they plan to organize their data package.</li>
-</li>
-      <li><i>"Introduction to EDI"</i></li>
-      <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
 </tr></td>
   <tr>
     <td nowrap>11:15 am - 11:45 pm</td>      
