@@ -23,7 +23,7 @@
     <td><strong>Assessment activity</strong><br><ul>
       <li>Review your data</li>
       <li>Analyze structure of your datasets</li>
-      <li>Report to group how you plan to organize your data package.</li>
+      <li>Report to group how you plan to organize your data package.</li></ul>
       <strong>Five phases of data publishing - (2)</strong><br><ul>
          <li><i>“Create clean data ”</i></li>
    </td>
