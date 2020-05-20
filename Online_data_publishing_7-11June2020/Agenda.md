@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technic.</li><li>Orientation to computer workspaces.</li></ul>
+    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technic.</li><li>Icebreaker: Group skill CV.</li></ul>
        <tr>
     <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
   </tr>
