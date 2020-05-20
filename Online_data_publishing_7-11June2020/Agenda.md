@@ -16,18 +16,14 @@
    </td>
  </tr>
        <tr>
-    <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
+    <td nowrap>10:00 pm - 11:45 pm</td><td>Break</td>
   </tr>
   <tr>
-    <td nowrap>10:15 am - 11:15 pm</td>
+    <td nowrap>10:15 am - 11:45 pm</td>
     <td><strong>Assessment activity</strong><br><ul>
       <li>Review your data</li>
       <li>Analyze structure of your datasets</li>
       <li>Report to group how you plan to organize your data package.</li>
-</tr></td>
-  <tr>
-    <td nowrap>11:15 am - 11:45 pm</td>      
-    <td>
       <strong>Five phases of data publishing - (2)</strong><br><ul>
          <li><i>“Create clean data ”</i></li>
    </td>
