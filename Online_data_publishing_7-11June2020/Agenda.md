@@ -41,10 +41,22 @@
     <td nowrap>11:45 pm - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
-    <td nowrap>1:30 pm - 5:00 pm</td>
+    <td nowrap>1:00 pm - 1:45 pm</td>
     <td><strong>Hands-on:</strong> Formatting and cleaning data.<br><strong>Group discussion:</strong> Data set problems and solutions.
    </td>
  </tr>
+ <tr>
+    <td nowrap>1:45 pm - 2:50 pm</td>
+    <td><strong>Hands-on:</strong> Formatting and cleaning data.<br><strong>Group discussion:</strong> Data set problems and solutions.
+   </td>
+ </tr>
+ <tr>
+    <td nowrap>2:50 pm - 3:00 pm</td>
+    <td><strong>HConclude day 1</strong></td>
+ </tr>
+ 
+ 
+ 
   <tr>
     <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Creating EML metadata</strong></td>
   </tr>
