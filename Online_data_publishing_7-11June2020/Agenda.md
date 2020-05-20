@@ -1,13 +1,15 @@
-## Workshop Agenda in Pacific Time (PT)
+## Workshop Agenda - Pacific Time (PT)
 
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-    <td><strong>The EDI project, Organizing and cleaning data</strong></td>
+    <td><strong>The EDI project, organizing and cleaning data</strong></td>
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technical setup.</li><li>Icebreaker: Group skill CV.</li></ul>
+    <td><strong>Welcome:</strong><br><ul><li>Workshop agenda, goals, technical setup.</li>
+      <li>Introduction to EDI</li>
+      <li>Icebreaker: Group skill CV.</li></ul>
       <tr>
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
