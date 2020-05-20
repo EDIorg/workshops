@@ -1,4 +1,4 @@
-## Workshop Agenda
+## Workshop Agenda in Pacific Time (PT)
 
 <table>
   <tr>
@@ -6,7 +6,7 @@
     <td><strong>Organizing and cleaning data</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:30 am - 12:30 pm</td>
+    <td nowrap>8:00 am - 9:15 pm</td>
     <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Personal introductions and workshop agenda review.</li><li>Orientation to computer workspaces.</li></ul><strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
    </td>
  </tr>
