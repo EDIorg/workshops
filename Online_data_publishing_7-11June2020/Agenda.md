@@ -42,13 +42,12 @@
   </tr>
  <tr>
     <td nowrap>1:00 pm - 1:45 pm</td>
-    <td><strong>Hands-on:</strong> Formatting and cleaning data.<br><strong>Group discussion:</strong> Data set problems and solutions.
+    <td><strong>Exercise:</strong> Work in pairs: Data Carpentry Lesson: How would this dataset be cleaned?
    </td>
  </tr>
  <tr>
     <td nowrap>1:45 pm - 2:50 pm</td>
-    <td><strong>Hands-on:</strong> Formatting and cleaning data.<br><strong>Group discussion:</strong> Data set problems and solutions.
-   </td>
+    <td><strong>Hands-on:</strong></td>
  </tr>
  <tr>
     <td nowrap>2:50 pm - 3:00 pm</td>
