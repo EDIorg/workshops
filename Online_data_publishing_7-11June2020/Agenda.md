@@ -9,13 +9,16 @@
     <td nowrap>8:00 am - 9:15 pm</td>
     <td><strong>Welcome</strong><br><ul>
       <li>Workshop agenda, goals, technical setup</li>
-      <li>Introduction to EDI</li>
+      <li><i>Introduction to EDI</i></li>
       <li><i>Icebreaker: Group skill CV</i></li></ul>
-  </tr>
-      <tr> </td>
+</tr></td>
+  <tr>
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
-      <strong>“Five phases of data publishing - (1)”</strong><br><ul><li><i>“Concept of data package”</i></li><li><i>“Organizing data into publishable units”</i> </li>
+      <strong>Five phases of data publishing - (1)</strong><br><ul>
+         <li><i>“Concept of data package”</i></li>
+  <li><i>Exercise: Survey on thoughts about organizing data into publishable units</i></li>
+        <li><i>“Organizing data into publishable units”</i> </li>
    </td>
  </tr>
        <tr>
