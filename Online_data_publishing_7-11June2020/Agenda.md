@@ -10,12 +10,12 @@
     <td><strong>Welcome</strong><br><ul>
       <li>Workshop agenda, goals, technical setup</li>
       <li>Introduction to EDI</li>
-      <li><font color='red'>Icebreaker: Group skill CV</font></li></ul>
+      <li><i>Icebreaker: Group skill CV</i></li></ul>
   </tr>
       <tr> </td>
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
-      <strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
+      <strong>“Five phases of data publishing - (1)”</strong><br><ul><li><i>“Concept of data package”</i></li><li><i>“Organizing data into publishable units”</i> </li>
    </td>
  </tr>
        <tr>
