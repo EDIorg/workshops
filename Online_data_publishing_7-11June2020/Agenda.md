@@ -51,7 +51,7 @@
  </tr>
  <tr>
     <td nowrap>2:50 pm - 3:00 pm</td>
-    <td><strong>HConclude day 1</strong></td>
+    <td><strong>Conclude day 1</strong></td>
  </tr>
  
  
