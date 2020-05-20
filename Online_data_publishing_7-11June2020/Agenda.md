@@ -7,10 +7,11 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technic.</li><li>Icebreaker: Group skill CV.</li></ul>
+    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technical setup.</li><li>Icebreaker: Group skill CV.</li></ul>
        <tr>
     <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
   </tr>
+  <tr>
       <strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
    </td>
  </tr>
