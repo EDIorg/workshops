@@ -10,7 +10,7 @@
     <td><strong>Welcome</strong><br><ul>
       <li>Workshop agenda, goals, technical setup</li>
       <li>Introduction to EDI</li>
-      <li><color = "red">Icebreaker: Group skill CV</li></ul></color>
+      <li><span style="color: red;">Icebreaker: Group skill CV</li></ul></span>
   </tr>
       <tr> </td>
     <td nowrap>9:15 am - 10:00 pm</td>      
