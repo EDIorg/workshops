@@ -33,7 +33,7 @@
     <td nowrap>1:00 pm - 2:50 pm</td>
     <td><strong>Cleaning data for publishing</strong><br><ul>
       <li>Exercise 1: Data Carpentry Lesson: How would this dataset be cleaned?</li>
-      <li>Exercise 2: Plan to clean their data</li>
+      <li>Exercise 2: Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
       </td>
  </tr>
