@@ -7,9 +7,10 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td<ul><li>Workshop agenda, goals, technical setup.</li>
+    <td><li>Workshop agenda, goals, technical setup.</li>
       <li>Introduction to EDI</li>
       <li>Icebreaker: Group skill CV.</li></ul>
+  </tr>
       <tr> </td>
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
