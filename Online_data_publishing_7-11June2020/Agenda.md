@@ -21,9 +21,7 @@
   <tr>
     <td nowrap>10:15 am - 11:45 pm</td>
     <td><strong>Assessment activity</strong><br><ul>
-      <li>Review your data</li>
-      <li>Analyze structure of your datasets</li>
-      <li>Report to group how you plan to organize your data package.</li></ul>
+      <li>Review your data: Analyze structure and plan organizing data in a data package.</li></ul>
       <strong>Five phases of data publishing - (2)</strong><br><ul>
          <li><i>“Create clean data ”</i></li>
    </td>
