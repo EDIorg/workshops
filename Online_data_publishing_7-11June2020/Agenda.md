@@ -3,11 +3,15 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-    <td><strong>Organizing and cleaning data</strong></td>
+    <td><strong>The EDI project, Organizing and cleaning data</strong></td>
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Personal introductions and workshop agenda review.</li><li>Orientation to computer workspaces.</li></ul><strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
+    <td><strong>Welcome and Introduction to EDI</strong><br><ul><li>Workshop agenda, goals, technic.</li><li>Orientation to computer workspaces.</li></ul>
+       <tr>
+    <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
+  </tr>
+      <strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
    </td>
  </tr>
  <tr>
