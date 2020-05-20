@@ -3,14 +3,14 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-    <td><strong>"The EDI project" and "Organizing & cleaning data"</strong></td>
+       <td><strong>"The EDI project" and "Organizing & cleaning data"</strong></td>
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <ul><li>Workshop agenda, goals, technical setup.</li>
+    <td<ul><li>Workshop agenda, goals, technical setup.</li>
       <li>Introduction to EDI</li>
       <li>Icebreaker: Group skill CV.</li></ul>
-      <tr>
+      <tr> </td>
     <td nowrap>9:15 am - 10:00 pm</td>      
     <td>
       <strong>Presentations</strong><br><ul><li><i>“Five phases of data publishing.”</i> (Colin)</li><li><i>“Formatting and cleaning data.”</i> (Susanne)</li>
