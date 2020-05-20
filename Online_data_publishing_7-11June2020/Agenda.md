@@ -7,8 +7,7 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 9:15 pm</td>
-    <td><strong>Welcome</strong><br><ul>
-      <li>Workshop agenda, goals, technical setup</li>
+    <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li>
       <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
 </tr></td>
