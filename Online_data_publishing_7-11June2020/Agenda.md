@@ -10,7 +10,7 @@
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li>
       <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
-       <strong>Five phases of data publishing - (1)</strong><br><ul>
+       <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li>
    </td>
@@ -22,7 +22,7 @@
     <td nowrap>10:15 am - 12noon</td>
     <td><strong>Assessment activity</strong><br><ul>
       <li>Review your data: Analyze structure and plan organizing data into a data package.</li></ul>
-      <strong>Five phases of data publishing - (2)</strong><br><ul>
+      <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li><i>“Create clean data”</i></li>
    </td>
  </tr>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 10:00 pm</td>
-   <td><strong>Five phases of data publishing - (3)</strong><br><ul>
+   <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
       <li>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
      <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li>
@@ -57,10 +57,9 @@
   <tr>
     <td nowrap>10:15 am - 12noon</td>
    <td><strong>Five phases of data publishing - (3)</strong><br><ul>
-      <li><i>"An introduction to Metadata and Data Repositories"</i></li>
-      <li>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
-     <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li>
-     <li>Review your own metadata</li></td></ul>
+      <li><i>"Overview of all tools to create EML"</i></li>
+      <li>Demonstration of tools</li>
+      <li>Exercise: Create metadata in online editor</li></td></ul>
  <tr>
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
