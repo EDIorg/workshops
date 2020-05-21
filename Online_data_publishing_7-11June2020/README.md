@@ -8,6 +8,7 @@
 * [List of Participants](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_7-11June2020/Participants.md)
 * [Logistics](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_7-11June2020/Logistics.md)
 * Workshop presentations
+* Exercises
 * [EDI Code of Conduct](https://environmentaldatainitiative.org/about/environmental-data-initiative-code-of-conduct/)
 
 **Contact: Susanne Grossman-Clarke (grossmanclar@wisc.edu) with any questions.**
