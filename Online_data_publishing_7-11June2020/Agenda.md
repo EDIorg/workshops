@@ -45,12 +45,11 @@
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
-      <li><i>"An introduction to Metadata and Data Repositories"</i></li></ul>
-      <strong>Hands on: Explore data repositories</strong><ul>
-     <li>EDI, Dryad, Figshare, Zenodo</li></ul>
-      <strong>Five phases of data publishing - (3) Describe cont.</strong><br><ul>
-     <li><i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
-     <strong>Hands on: Review your own metadata</strong></td>
+      <li><i>"An introduction to Metadata and Data Repositories"</i></li>
+      <li><i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>     
+      <strong>Hands on: Explore data repositories and review metadata</strong><ul>
+       <li>Compare EDI, Dryad, Figshare, Zenodo</li></ul>
+       <li>Review your own metadata</li></ul></td>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
