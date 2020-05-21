@@ -3,7 +3,8 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong><br></td>
+       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong><br>
+         <br></td>
   </tr>
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
