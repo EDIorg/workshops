@@ -45,19 +45,19 @@
     <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:00 am - 10:00 pm</td>
+    <td nowrap>8:00 am - 10:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
       <li>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
      <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li>
      <li>Review your own metadata</li></td></ul>
       <tr>
-    <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
+    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
   <tr>
     <td nowrap>10:15 am - 12noon</td>
    <td><strong>Five phases of data publishing - (3)</strong><br><ul>
-      <li><i>"Overview of all tools to create EML"</i></li>
+      <li><i>"Overview of tools to create EML"</i></li>
       <li>Demonstration of tools</li>
       <li>Exercise: Create metadata in online editor</li></td></ul>
  <tr>
@@ -73,22 +73,26 @@
     <td nowrap>2:50 pm - 3:00 pm</td>
     <td><strong>Conclude day 2</strong></td>
  </tr>
-
- 
- 
  <td><strong>Thu 11 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:30 am - 12:30 pm</td>
+    <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Presentation:</strong> <i>“Overview of the EDI data repository and data portal (and how to use it for publishing data)”</i> (Colin)<br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.   </td>
  </tr>
+      <tr>
+    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
+  </tr>
+
  <tr>
-    <td nowrap>12:30 pm - 1:30 pm</td>
-    <td>Lunch on your own</td>
+    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch break</td>
   </tr>
  <tr>
     <td nowrap>1:30 pm - 5:00 pm</td>
     <td><strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
    </td>
+ </tr>
+   <tr>
+    <td nowrap>2:50 pm - 3:00 pm</td>
+    <td><strong>Conclude day 3</strong></td>
  </tr>
 </table>
