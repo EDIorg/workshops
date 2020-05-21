@@ -9,7 +9,7 @@
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li>
-      <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
+      <li><strong>Hands on:</strong> Icebreaker: Group skill CV</li></ul>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li>
@@ -21,7 +21,7 @@
   <tr>
     <td nowrap>10:15 am - 12noon</td>
     <td><strong>Assessment activity</strong><br><ul>
-      <li>Review your data: Analyze structure and plan organizing data into a data package.</li></ul>
+      <li><strong>Hands on:</strong> Review your data - Analyze structure and plan organizing data into a data package.</li></ul>
       <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li><i>“Create clean data”</i></li>
    </td>
@@ -31,7 +31,7 @@
   </tr>
  <tr>
     <td nowrap>1:00 pm - 2:50 pm</td>
-    <td><strong>Cleaning data for publishing</strong><br><ul>
+    <td><strong>Hands on: Cleaning data for publishing</strong><br><ul>
       <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
       <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
