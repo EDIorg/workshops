@@ -78,22 +78,22 @@
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
-    <i>"Overview of data upload and publishing in the EDI data portal"</i>
-      
-      <br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
+    <li><i>"Overview of data upload and publishing in the EDI data portal"</i></li>
  </tr>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
-
+  <tr>
+    <td nowrap>10:15 am - 12noon</td>
+    <td><br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
  <tr>
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
     <td nowrap>1:00 pm - 2:50 pm</td>
-      <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
-    <<strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
-   </td>
+      <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
+        <li><i>"Conclusion - Using data packages in the EDI repository"</i></li>    
+     </td>
  </tr>
    <tr>
     <td nowrap>2:50 pm - 3:00 pm</td>
