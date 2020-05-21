@@ -6,7 +6,7 @@
        <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:00 am - 10:00 pm</td>
+    <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li>
       <li><strong>Icebreaker:</strong> <i>Group skill CV</i></li></ul>
@@ -16,7 +16,7 @@
    </td>
  </tr>
        <tr>
-    <td nowrap>10:00 pm - 10:15 pm</td><td>Break</td>
+    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
   <tr>
     <td nowrap>10:15 am - 12noon</td>
