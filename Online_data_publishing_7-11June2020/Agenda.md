@@ -12,6 +12,7 @@
             <li>Group skill CV</li></ul>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
+      <li>Exercise: Survey on thoughts about organizing data into publishable units</li>
         <li><i>“Organizing data into publishable units”</i></li></ul>
    </td>
 </tr><tr>
