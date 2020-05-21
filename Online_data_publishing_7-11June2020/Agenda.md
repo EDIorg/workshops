@@ -9,7 +9,7 @@
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li></ul>
-      <strong>Hands on:</strong> Icebreaker: Group skill CV<br><br>
+      <strong>Hands on: Icebreaker: Group skill CV</strong><br><br>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li></ul>
@@ -48,9 +48,9 @@
     <td nowrap>8:00 am - 10:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
-      <li>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
+      <li><strong>Hands on:</strong>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
      <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li>
-     <li>Review your own metadata</li></td></ul>
+     <li><strong>Hands on: </strong>Review your own metadata</li></td></ul>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
