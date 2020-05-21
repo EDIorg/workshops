@@ -9,7 +9,7 @@
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li></ul>
-      <strong>Hands on: Icebreaker: Group skill CV</strong><br><br>
+      <strong>Hands on: Icebreaker - group skill CV</strong><br><br>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li></ul>
