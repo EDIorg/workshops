@@ -90,7 +90,7 @@
  <tr>
     <td nowrap>1:00 pm - 2:50 pm</td>
       <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
-    <td><strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
+    <<strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
    </td>
  </tr>
    <tr>
