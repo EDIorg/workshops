@@ -7,7 +7,7 @@
 </tr><tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
-      <li><i>["Introduction to EDI"](https://docs.google.com/presentation/d/1eFQ1ItD_TC2sjhj_MqnHxDAlQWBzE3RY5WeiSVrGAo4/edit#slide=id.g7808bd2ea0_0_0)</i></li></ul>
+      <li><i>[Introduction to EDI](https://docs.google.com/presentation/d/1eFQ1ItD_TC2sjhj_MqnHxDAlQWBzE3RY5WeiSVrGAo4/edit#slide=id.g7808bd2ea0_0_0)</i></li></ul>
       <strong>Hands on: Icebreaker</strong><ul>
             <li>Group skill CV</li></ul>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
