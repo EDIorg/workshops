@@ -30,19 +30,13 @@
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
-    <td nowrap>1:00 pm - 2:50 pm</td>
+    <td nowrap>1:00 pm - 3:00 pm</td>
     <td><strong>Hands on: Cleaning data for publishing</strong><br><ul>
       <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
       <li>Plan for how to clean your data</li>
-      <li>Work on cleaning your data</li></ul>
+      <li>Work on cleaning your data</li></ul><br>
+      <td><strong>Conclude day 1</strong></td>
       </td>
- </tr>
- <tr>
-    <td nowrap>2:50 pm - 3:00 pm</td>
-    <td><strong>Conclude day 1</strong></td>
- </tr>
-<tr>
-    <td </td><td></td>
  </tr>
   <tr>
     <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
