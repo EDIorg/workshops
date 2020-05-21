@@ -84,13 +84,10 @@
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
-    <td nowrap>1:00 pm - 2:50 pm</td>
+    <td nowrap>1:00 pm - 3:00 pm</td>
       <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
-        <li><i>"Conclusion - Using data packages in the EDI repository"</i></li>    
+        <li><i>"Conclusion - Using data packages in the EDI repository"</i></li></ul>
+        <strong>Conclude day 3: Survey</strong>
      </td>
- </tr>
-   <tr>
-    <td nowrap>2:50 pm - 3:00 pm</td>
-    <td><strong>Conclude day 3</strong></td>
  </tr>
 </table>
