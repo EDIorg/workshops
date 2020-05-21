@@ -8,8 +8,8 @@
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
-      <li><i>"Introduction to EDI"</i></li>
-      <li><strong>Hands on:</strong> Icebreaker: Group skill CV</li></ul>
+      <li><i>"Introduction to EDI"</i></li></ul>
+      <strong>Hands on:</strong> Icebreaker: Group skill CV
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li>
