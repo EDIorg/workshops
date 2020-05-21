@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
+       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"[https://docs.google.com/presentation/d/1eFQ1ItD_TC2sjhj_MqnHxDAlQWBzE3RY5WeiSVrGAo4/edit#slide=id.g7808bd2ea0_0_0]</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
