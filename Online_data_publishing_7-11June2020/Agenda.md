@@ -87,7 +87,8 @@
     <td nowrap>1:00 pm - 3:00 pm</td>
       <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
         <li><i>"Conclusion - Using data packages in the EDI repository"</i></li></ul>
-        <strong>Conclude day 3: Survey</strong>
+        <strong>Conclude day 3: Survey</strong><br><br>
+       <strong>Optional Hands-on: Continue cleaning data, creating metadata, uploading data and metadata.</strong>
      </td>
  </tr>
 </table>
