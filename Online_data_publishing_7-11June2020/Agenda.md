@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td nowrap>10:15 am - 12noon</td>
-    <td><br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
+    <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
  <tr>
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
