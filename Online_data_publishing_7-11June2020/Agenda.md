@@ -20,8 +20,8 @@
   </tr>
   <tr>
     <td nowrap>10:15 am - 12noon</td>
-    <td><strong>Assessment activity</strong><br><ul>
-      <li><strong>Hands on:</strong> Review your data - Analyze structure and plan organizing data into a data package.</li></ul>
+    <td><strong>Hands on: Assessment activity</strong><br><ul>
+      <li>Review your data - Analyze structure and plan organizing data into a data package.</li></ul>
       <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li><i>“Create clean data”</i></li>
    </td>
