@@ -59,14 +59,14 @@
    <td><strong>Five phases of data publishing - (3)</strong><br><ul>
       <li><i>"Overview of tools to create EML"</i></li>
       <li>Demonstration of tools</li>
-      <li>Exercise: Create metadata in online editor</li></td></ul>
+      <li><strong>Hands on: </strong>Create metadata in online editor</li></td></ul>
  <tr>
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
   <tr>
     <td nowrap>1:00 pm - 2:50 pm</td>
     <td><ul><li>Demonstration of exploring EML using the Oxygen editor</li>
-      <li>Hands on: Continue cleaning and organizing your data/metadata.</li>
+      <li><strong>Hands on: </strong>Continue cleaning and organizing your data/metadata.</li>
    </td>
  </tr>
   <tr>
@@ -77,17 +77,19 @@
   </tr>
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
-    <td><strong>Presentation:</strong> <i>“Overview of the EDI data repository and data portal (and how to use it for publishing data)”</i> (Colin)<br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.   </td>
+    <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
+    <td><i>“Overview of the EDI data repository and data portal (and how to use it for publishing data)”</i> (Colin)<br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.   </td>
  </tr>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
   </tr>
 
  <tr>
-    <td nowrap>12:30 pm - 1:30 pm</td><td>Lunch break</td>
+    <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
  <tr>
-    <td nowrap>1:30 pm - 5:00 pm</td>
+    <td nowrap>1:00 pm - 2:50 pm</td>
+      <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
     <td><strong>Hands-on:</strong> Upload data (continued).<br><strong>Presentation:</strong> <i>“Using data packages in the EDI repository”</i> (Colin)<br><br><strong>Wrap up</strong>
    </td>
  </tr>
