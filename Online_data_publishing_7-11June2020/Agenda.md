@@ -49,7 +49,7 @@
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
       <li><strong>Hands on: </strong>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
-     <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li>
+     <li><i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li>
      <li><strong>Hands on: </strong>Review your own metadata</li></td></ul>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
