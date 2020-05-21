@@ -10,7 +10,7 @@
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>"Introduction to EDI"</i></li></ul>
       <strong>Hands on: Icebreaker</strong><ul>
-            <li><i>Group skill CV</i></li></ul>
+            <li>Group skill CV</li></ul>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li><i>“Concept of a data package”</i></li>
         <li><i>“Organizing data into publishable units”</i></li></ul>
