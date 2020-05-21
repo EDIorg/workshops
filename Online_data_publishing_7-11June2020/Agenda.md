@@ -32,8 +32,8 @@
  <tr>
     <td nowrap>1:00 pm - 2:50 pm</td>
     <td><strong>Cleaning data for publishing</strong><br><ul>
-      <li>Exercise 1: Data Carpentry Lesson: How would this dataset be cleaned?</li>
-      <li>Exercise 2: Plan for how to clean your data</li>
+      <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
+      <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
       </td>
  </tr>
@@ -43,11 +43,12 @@
  </tr>
  
   <tr>
-    <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Creating EML metadata</strong></td>
+    <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
   </tr>
   <tr>
-    <td nowrap>8:30 am - 12:30 pm</td>
-    <td><strong>Presentation:</strong> <i>"What are metadata and structured metadata”</i> (Colin)
+    <td nowrap>8:00 am - 10:00 pm</td>
+   <td><strong>Five phases of data publishing - (1)</strong><br><ul>
+    <i>"An introduction to Metadata and Data Repositories"</i></td>
 <br><strong>Hands-on:</strong> Edit/refine metadata in the EDI template.
 <br>
 <br><strong>Presentation:</strong> <i>“Make metadata with the EMLassemblyline”</i> (Susanne)<br><strong>Hands-on:</strong> Creating EML using “EMLassemblyline”.
