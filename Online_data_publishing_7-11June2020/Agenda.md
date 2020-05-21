@@ -78,7 +78,9 @@
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
-    <i>“Overview of the EDI data repository and data portal (and how to use it for publishing data)”</i> (Colin)<br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
+    <i>"Overview of data upload and publishing in the EDI data portal"</i>
+      
+      <br><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
  </tr>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
