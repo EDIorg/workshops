@@ -35,7 +35,7 @@
       <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
       <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul><br>
-      <td><strong>Conclude day 1</strong></td>
+      <strong>Conclude day 1</strong>
       </td>
  </tr>
   <tr>
