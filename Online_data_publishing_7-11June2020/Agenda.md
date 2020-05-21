@@ -41,6 +41,9 @@
     <td nowrap>2:50 pm - 3:00 pm</td>
     <td><strong>Conclude day 1</strong></td>
  </tr>
+<tr>
+    <td </td><td></td>
+ </tr>
   <tr>
     <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
   </tr>
