@@ -64,8 +64,9 @@
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
   <tr>
-    <td nowrap>1:30 pm - 5:00 pm</td>
-    <td><strong>Continued hands-on:</strong> Creating EML using “EMLassemblyline”
+    <td nowrap>1:00 pm - 2:50 pm</td>
+    <td><ul><li>Demonstration of exploring EML using the Oxygen editor</li>
+      <li>Hands on: Continue cleaning and organizing your data/metadata.</li>
    </td>
  </tr>
   <tr>
