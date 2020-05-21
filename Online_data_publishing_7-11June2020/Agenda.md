@@ -49,7 +49,8 @@
     <td nowrap>8:00 am - 10:00 pm</td>
    <td><strong>Five phases of data publishing - (3)</strong><br><ul>
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
-      <li>Explore data repositories (EDI, DRYAD, Figshare)</li></td></ul>
+      <li>Explore data repositories (EDI, Dryad, Figshare, Zenodo)</li>
+     <li>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</li></td></ul>
 <br><strong>Hands-on:</strong> Edit/refine metadata in the EDI template.
 <br>
 <br><strong>Presentation:</strong> <i>“Make metadata with the EMLassemblyline”</i> (Susanne)<br><strong>Hands-on:</strong> Creating EML using “EMLassemblyline”.
