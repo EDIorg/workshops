@@ -48,7 +48,7 @@
       <li><i>"An introduction to Metadata and Data Repositories"</i></li>
       <li><i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>     
       <strong>Hands on: Explore data repositories and review metadata</strong><ul>
-       <li>Compare EDI, Dryad, Figshare, Zenodo</li></ul>
+       <li>Compare EDI, Dryad, Figshare, Zenodo</li>
        <li>Review your own metadata</li></ul></td>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
