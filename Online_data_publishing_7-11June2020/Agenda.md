@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
-       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong><br>
-         <br></td>
+       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
   </tr>
   <tr>
     <td nowrap>8:00 am - 10:00 am</td>
@@ -35,7 +34,7 @@
     <td><strong>Hands on: Cleaning data for publishing</strong><br><ul>
       <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
       <li>Plan for how to clean your data</li>
-      <li>Work on cleaning your data</li></ul><br>
+      <li>Work on cleaning your data</li></ul>
       <strong>Conclude day 1</strong>
       </td>
  </tr>
@@ -62,14 +61,11 @@
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
   </tr>
   <tr>
-    <td nowrap>1:00 pm - 2:50 pm</td>
+    <td nowrap>1:00 pm - 3:00 pm</td>
     <td><ul><li>Demonstration of exploring EML using the Oxygen editor</li>
-      <li><strong>Hands on: </strong>Continue cleaning and organizing your data/metadata.</li>
+      <li><strong>Hands on: </strong>Continue cleaning and organizing your data/metadata.</li></ul>
+      <strong>Conclude day 2</strong></td>
    </td>
- </tr>
-  <tr>
-    <td nowrap>2:50 pm - 3:00 pm</td>
-    <td><strong>Conclude day 2</strong></td>
  </tr>
  <td><strong>Thu 11 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
   </tr>
