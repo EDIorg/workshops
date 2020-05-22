@@ -18,4 +18,4 @@ List of Participants
 |Sclafani, 	Judith	|judi.sclafani@pomona.edu	| Pomona | EDI UCSB, Margaret O'Brien |
 |Valadez,	Dennise	| dennisevl@ucla.edu	| UCLA | Hurricane Island Center Science, Phoebe Jekielek |
 |Whipple,	Ashley	|ashley.whipple@colorado.edu	| CU Boulder | Pepperwood Preserve, Tosha Comendant |
-|Zollo-Kenecek,	Kyle |kylezollo@gmail.com	| Bates | SWRC, Charles Dow |
+|Zollo-Venecek,	Kyle |kylezollo@gmail.com	| Bates | SWRC, Charles Dow |
