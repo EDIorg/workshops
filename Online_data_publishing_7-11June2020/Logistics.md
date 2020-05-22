@@ -3,7 +3,7 @@
 * Keep bandwidth high by closing unnecessary applications
 * Keep your video turned on
 
-**Other applications and software**
+**Software and applications**
 
 * Slack (business communication platform for instant messaging)
 * R or R-Studio
