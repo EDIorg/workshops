@@ -1,7 +1,3 @@
-**Zoom connection**
-
-Coming soon!
-
 **Good practices when participating in an online workshop**
 
 * Keep bandwidth high by closing unnecessary applications
