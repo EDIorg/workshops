@@ -16,7 +16,7 @@ List of Participants
 |Pavelka,	Claire	|cpavelka@scu.edu | SCU | UCSB SNARL |
 |Pawlik,	Alex	|alexandria.pawlik@gmail.com	| UM | UMBS |
 |Salva,	Melissa	| melissa.salva1@upr.edu	| UPR | OTS |
-|Sclafani, 	Judith	|judi.sclafani@pomona.edu	| Pomona | EDI UCSB |
+|Sclafani, 	Judith	|jasclafani@gmail.com	| Pomona | EDI UCSB |
 |Valadez,	Dennise	| dennisevl@ucla.edu	| UCLA | Hurricane Island Center Science |
 |Whipple,	Ashley	|ashley.whipple@colorado.edu	| CU Boulder | Pepperwood Preserve |
 |Zollo-Venecek,	Kyle |kylezollo@gmail.com	| Bates | SWRC |
