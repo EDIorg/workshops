@@ -7,7 +7,6 @@
 
 * Slack (business communication platform for instant messaging)
 * R or R-Studio
-* Oxygen editor (for editing XML files)
 
 **Relevant links**
 
