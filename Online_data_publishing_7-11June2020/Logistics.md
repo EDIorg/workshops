@@ -7,6 +7,7 @@
 
 * Slack (business communication platform for instant messaging)
 * R or R-Studio
+  * install.packages(c("tidyverse", "lubridate", "dataMaid"))
 
 **Relevant links**
 
