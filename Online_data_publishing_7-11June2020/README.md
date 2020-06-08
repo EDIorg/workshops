@@ -1,4 +1,4 @@
-## EDI Online Workshop “Publishing data packages in the EDI repository”
+## EDI Online Workshop “Publishing environmental data in the EDI repository”
 
 **EDI Zoom, June 9-11, 2020**
 
