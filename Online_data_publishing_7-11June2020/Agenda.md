@@ -29,7 +29,6 @@
 </tr><tr>
     <td nowrap>1:00 pm - 3:00 pm</td>
     <td><strong>Hands on: Cleaning data for publishing</strong><br><ul>
-      <li>Data Carpentry Lesson: How would this dataset be cleaned?</li>
       <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
       <strong>Conclude day 1</strong>
@@ -57,8 +56,9 @@
 </tr><tr>
     <td nowrap>1:00 pm - 3:00 pm</td>
     <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
-       <li>Demonstration of the Oxygen editor for EML</li></ul>
-      <strong>Hands on: Continue cleaning and organizing your data/metadata.</strong><br>
+       <li><i>"Explore EML using XML Editors"</i></li>
+       <li>Demonstration of the Oxygen and Jedit editors for EML</li></ul>
+      <strong>Hands on: Continue cleaning and organizing your data/metadata & create EML.</strong><br>
       <strong>Conclude day 2</strong></td>
 </tr><tr>
  <td><strong>Fri 12 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
