@@ -51,7 +51,7 @@
    <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li><i>"Overview of tools to create EML"</i></li>
       <li>Demonstration of tools</li></ul>
-      <strong>Hands on: Create metadata in online editor</strong></td>
+      <strong>Hands on: Create metadata with EMLassemblyline and example data</strong></td>
 </tr><tr>
     <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
 </tr><tr>
