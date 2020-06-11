@@ -35,7 +35,7 @@
       <strong>Conclude day 1</strong>
       </td>
 </tr><tr>
-    <td nowrap><strong>Wed 10 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
+    <td nowrap><strong>Thu 11 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 10:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
@@ -61,7 +61,7 @@
       <strong>Hands on: Continue cleaning and organizing your data/metadata.</strong><br>
       <strong>Conclude day 2</strong></td>
 </tr><tr>
- <td><strong>Thu 11 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
+ <td><strong>Fri 12 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
