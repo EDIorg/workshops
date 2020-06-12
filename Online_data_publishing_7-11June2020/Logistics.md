@@ -6,8 +6,11 @@
 **Software and applications**
 
 * Slack (business communication platform for instant messaging)
-* R or R-Studio
+* R and R-Studio (most recent versions for your operating system)
   * install.packages(c("tidyverse", "lubridate", "dataMaid"))
+* Install EMLassemblyline from GitHub: https://github.com/EDIorg/EMLassemblyline
+  * remotes::install_github("EDIorg/EMLassemblyline")
+  * Please contact Colin Smith with any questions/problems (csmith@wisc.edu)
 
 **Relevant links**
 
