@@ -24,6 +24,7 @@
 * PASTA+ User/Developer Documentation - http://pastaplus-core.readthedocs.io/en/latest/
 * Data Package Manager Web Service API - https://pasta.lternet.edu/package/docs/api
 * Audit Manager Web Service API - https://pasta.lternet.edu/audit/docs/api
+* EDI Office Hour information: https://environmentaldatainitiative.org/edi-office-hours/
 
 * https://www.go-fair.org/go-fair-initiative/
 
