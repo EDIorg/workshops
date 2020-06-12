@@ -5,7 +5,7 @@
     <td nowrap><strong>Tue, 9 June 2020</strong></td>
        <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
-    <td nowrap>8:00 am - 10:00 am</td>
+    <font size="-1"><td nowrap>8:00 am - 10:00 am</td>
     <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
       <li><i>Introduction to EDI</i></li></ul>
       <strong>Hands on: Icebreaker</strong><ul>
@@ -14,7 +14,7 @@
          <li><i>“Concept of a data package”</i></li>
       <li>Exercise: Survey on thoughts about organizing data into publishable units</li>
         <li><i>“Organizing data into publishable units”</i></li></ul>
-   </td>
+   </td></font>
 </tr><tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
 </tr><tr>
