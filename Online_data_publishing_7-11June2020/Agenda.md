@@ -63,11 +63,12 @@
 </tr><tr>
  <td><strong>Fri 12 June 2020</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
-    <td nowrap>8:00 am - 10:00 am</td>
+    <td nowrap>8:00 am - 9:30 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
     <li><i>"Overview of data upload and publishing in the EDI data portal"</i></li>
+      <li>Demonstration of example of data upload (staging vs. production, reserve EDI package ID, evaluation with explanation of quality check report).</li>
 </tr><tr>
-    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
+    <td nowrap>9:30 am - 9:45 am</td><td>Break</td>
 </tr><tr>
     <td nowrap>10:15 am - 12noon</td>
     <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
