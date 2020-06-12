@@ -10,7 +10,7 @@
   * install.packages(c("tidyverse", "lubridate", "dataMaid"))
 * Install EMLassemblyline from GitHub: https://github.com/EDIorg/EMLassemblyline
   * remotes::install_github("EDIorg/EMLassemblyline")
-  * Please contact Colin Smith with any questions/problems (csmith@wisc.edu)
+  * Please contact Colin Smith with any questions/problems (colin.smith@wisc.edu)
 
 **Relevant links**
 
