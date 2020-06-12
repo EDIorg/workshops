@@ -14,7 +14,7 @@
 
 **Relevant links**
 
-* Contact - info@environmentaldatainitiative.org
+* Contact - support@environmentaldatainitiative.org
 * Website - https://environmentaldatainitiative.org/ 
 * Data portal - https://portal.edirepository.org 
 * Twitter - @EDIgotdata , @EDIdatapackages
@@ -25,7 +25,6 @@
 * Data Package Manager Web Service API - https://pasta.lternet.edu/package/docs/api
 * Audit Manager Web Service API - https://pasta.lternet.edu/audit/docs/api
 * EDI Office Hour information: https://environmentaldatainitiative.org/edi-office-hours/
-
-* https://www.go-fair.org/go-fair-initiative/
+* FAIR Data Initiative: https://www.go-fair.org/go-fair-initiative/
 
 
