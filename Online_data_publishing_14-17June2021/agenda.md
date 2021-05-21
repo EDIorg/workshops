@@ -35,23 +35,28 @@
     <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
-    <td nowrap>12:30 pm - 01:00 pm</td>
+    <td nowrap>12:30 pm - 1:00 pm</td>
       <td strong>Questions and feedback. Conclude the day.</td>
 </tr>    
 <tr>
     <td nowrap><strong>Tue 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
-    <td nowrap>8:00 am - 10:00 am</td>
+    <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
-      <li><i>"An introduction to Metadata and Data Repositories"</i></li>
+      <li>Presentation: <i>"An introduction to Metadata and Data Repositories"</i></li>
+      <strong>Hands on: Explore data repositories and review metadata in EDI, Dryad, Figshare, Zenodo</strong>
+  </td>
+      <tr>
+    <td nowrap>9:00 am - 9:10 am</td><td>Break</td>
+</tr><tr>
+    <td nowrap>9:10 am - 10:00 am</td>
+  <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
       <li>Exercise: Explore data repositories and review metadata in EDI, Dryad, Figshare, Zenodo</li>
       <li><i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
       <strong>Hands on: Review your own metadata</strong>
   </td>
-      <tr>
-    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
-</tr><tr>
-    <td nowrap>10:15 am - 12noon</td>
+  
+  
    <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li><i>"Overview of tools to create EML"</i></li>
       <li>Demonstration of tools</li></ul>
