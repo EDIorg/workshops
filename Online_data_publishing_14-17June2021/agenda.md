@@ -89,9 +89,10 @@
 </tr>
  <tr>
     <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
-</tr><tr>
-    <td nowrap>12:30 pm - 1:00 pm</td>
-        <strong>Conclude day 3: Survey</strong><br><br>
+</tr>
+<tr>
+    <td nowrap>12:30 pm - 1:00 pm</td><td>
+        <strong>Conclude day 3: Survey</strong><br>
        <strong>Optional Hands-on: Continue cleaning data, creating metadata, uploading data and metadata.</strong>
      </td>
  </tr>
