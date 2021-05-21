@@ -37,12 +37,8 @@
     <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
-    <td nowrap>10:50 pm - 11:15 pm</td>
-    <td><strong>Hands on: Assessment activity</strong><br><ul>
-      <li>Plan for how to clean your data</li>
-      <li>Work on cleaning your data</li>
-      <li>Conclude the data</li></ul>
-      </td>
+    <td nowrap>12:30 pm - 01:00 pm</td>
+      <td strong>Questions? Conclude day.</td>
 </tr>    
 <tr>
     <td nowrap><strong>Thu 11 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
