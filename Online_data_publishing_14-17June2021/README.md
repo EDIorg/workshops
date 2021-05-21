@@ -4,7 +4,7 @@
 
 **Important information:**
 
-* [Agenda](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_14-17June2021/Agenda.md)
+* [Agenda](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_14-17June2021/agenda.md)
 * [Logistics](https://github.com/EDIorg/workshops/blob/master/Online_data_publishing_14-17June2021/Logistics.md)
 * [Workshop presentations](https://drive.google.com/drive/folders/1M4tK3NruBYR9FzpFB4IO08IlXGbHFXd-?usp=sharing)
 * [EDI Code of Conduct](https://environmentaldatainitiative.org/about/environmental-data-initiative-code-of-conduct/)
