@@ -38,7 +38,7 @@
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
         <td nowrap>Questions and feedback. Conclude the day.<br>
-        <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
+        <strong>Optional with EDI support:</strong> Work on your own data: Organize, clean, create metadata, upload data.
   </td> 
 </tr>    
 <tr><td></td><td><br></td></tr>    
@@ -69,7 +69,7 @@
 </tr><tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
     <td nowrap>Questions and feedback.
-      <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.</td>
+      <strong>Optional with EDI support:</strong> Work on your own data: Organize, clean, create metadata, upload data.</strong></td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
@@ -98,7 +98,7 @@
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td><td>
         <strong>Conclude the workshop: Survey</strong><br>
-       <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
+       <strong>Optional with EDI support:</strong> Work on your own data: Organize, clean, create metadata, upload data.</strong></td>
      </td>
  </tr>
 </table>
