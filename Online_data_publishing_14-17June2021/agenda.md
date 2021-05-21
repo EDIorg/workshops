@@ -25,14 +25,10 @@
     <td nowrap>09:30 am - 09:45 am</td><td>Break</td>
 </tr>
   <tr>
-    <td nowrap>9:45 am - 10:15 am</td>
+    <td nowrap>9:45 am - 11:30 am</td>
 <td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
-         <li>Presentation: <i>“Create clean data”</i></li>
-   </td>
-    </tr>
-<tr>
-    <td nowrap>10:50 pm - 11:15 pm</td>
-    <td><strong>Hands on: Assessment activity</strong><br><ul>
+         <li>Presentation: <i>“Create clean data”</i></li></ul>
+       <strong>Hands on: Assessment activity</strong><br><ul>
       <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
       </td>
