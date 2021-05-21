@@ -26,7 +26,7 @@
 </tr>
   <tr>
     <td nowrap>9:45 am - 10:15 am</td>
-      <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
+<td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li>Presentation: <i>“Create clean data”</i></li>
    </td>
     </tr>
