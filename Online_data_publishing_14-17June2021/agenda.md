@@ -26,7 +26,8 @@
   <tr>
     <td nowrap>9:45 am - 11:30 am</td>
 <td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
-         <li>Presentation: <i>“Create clean data”</i></li></ul>
+         <li>Presentation: <i>“Create clean data”</i></li>
+         <li>Presentation: <i>"Tools for cleaning data: R, OpenRefine, Excel"</i></li></ul>
        <strong>Hands on: Assessment activity</strong><br><ul>
       <li>Participants review their data, plan for how to and work on cleaning their data</li></ul>
       </td>
@@ -36,8 +37,7 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
-        <td nowrap><li>Presentation:<i> "Tools for cleaning data: R, OpenRefine, Excel"</i></li></ul>
-          Questions and feedback. Conclude the day.</td>
+        <td nowrap>Questions and feedback. Conclude the day.</td>
 </tr>    
 <tr>
     <td nowrap><strong>Tue, 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
@@ -45,7 +45,8 @@
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
      <li>Presentation: <i>"An introduction to Metadata and Data Repositories"</i></li></ul>
-      <strong>Hands on: Explore data repositories and review metadata in EDI, Dryad, Figshare, Zenodo</strong>
+      <strong>Hands on: Explore data repositories</strong>
+     <ul><li> Review metadata in EDI, Dryad, Figshare, Zenodo</li></ul>
   </td>
       <tr>
     <td nowrap>9:00 am - 9:10 am</td><td>Break</td></tr>
