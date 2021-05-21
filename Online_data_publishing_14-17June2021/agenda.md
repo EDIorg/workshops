@@ -45,7 +45,7 @@
 </tr><tr>
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
-     <li>Presentation: <i>"An introduction to Metadata and Data Repositories"</i></li></ul>
+     <li>Presentation: <i>"An introduction to metadata and data repositories"</i></li></ul>
       <strong>Hands on: Explore data repositories</strong>
      <ul><li> Review metadata in EDI, Dryad, Figshare, Zenodo</li></ul>
   </td>
