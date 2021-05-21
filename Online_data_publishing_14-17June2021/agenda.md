@@ -68,23 +68,29 @@
     <td nowrap>12:30 pm - 1:00 pm</td>
     <td nowrap>Questions and feedback. 
 </tr><tr>
- <td><strong>Thu 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
+ <td><strong>Thu, 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
-    <td nowrap>8:00 am - 9:30 am</td>
+    <td nowrap>8:00 am - 8:45 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
-    <li><i>"Overview of data upload and publishing in the EDI data portal"</i></li>
-      <li>Demonstration of a data package upload (staging vs. production, reserve EDI package ID, evaluation with explanation of quality check report).</li>
+    <li>Presentation: <i>"Overview of data upload and publishing in the EDI data portal"</i></li></ul>
+      <strong>Hands on: Demonstration of a data package upload</strong></td>
 </tr><tr>
-    <td nowrap>9:30 am - 9:45 am</td><td>Break</td>
+    <td nowrap>8:45 am - 9:00 am</td><td>Break</td>
 </tr><tr>
-    <td nowrap>10:15 am - 12noon</td>
+    <td nowrap>9:00 am - 10:00</td>
     <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
+<tr>
+    <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
+</tr>
+<tr>
+    <td nowrap>10:15 am - 11:30 am</td>  
+   <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
+      <li>Presentation: <i>Conclusion - Using data packages in the EDI repository</i></li></ul>
+</tr>
  <tr>
-    <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
+    <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
-    <td nowrap>1:00 pm - 3:00 pm</td>
-      <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
-        <li><i>"Conclusion - Using data packages in the EDI repository"</i></li></ul>
+    <td nowrap>12:30 pm - 1:00 pm</td>
         <strong>Conclude day 3: Survey</strong><br><br>
        <strong>Optional Hands-on: Continue cleaning data, creating metadata, uploading data and metadata.</strong>
      </td>
