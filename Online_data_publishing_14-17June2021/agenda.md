@@ -5,16 +5,10 @@
     <td nowrap><strong>Mon, 14 June 2021</strong></td>
        <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
-    <font size="-1"><td nowrap>8:00 am - 10:00 am</td>
-    <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
+    <font size="-1"><td nowrap>8:00 am - 08:30 am</td>
+    <td><strong>Welcome: </strong> Introduction, workshop agenda and goals<br><ul>
       <li><i>Introduction to EDI</i></li></ul>
-      <strong>Hands on: Icebreaker</strong><ul>
-            <li>Group skill CV</li></ul>
-       <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
-         <li><i>“Concept of a data package”</i></li>
-      <li>Exercise: Survey on thoughts about organizing data into publishable units</li>
-        <li><i>“Organizing data into publishable units”</i></li></ul>
-   </td></font>
+      </td></font>
 </tr><tr>
     <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
 </tr>
