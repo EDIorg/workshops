@@ -37,7 +37,7 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
-        <td nowrap>Questions and feedback. Conclude the day.
+        <td nowrap>Questions and feedback. Conclude the day.<br>
         <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
   </td> 
 </tr>    
@@ -97,7 +97,7 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td><td>
-        <strong>Conclude day 3: Survey</strong><br>
+        <strong>Conclude the workshop: Survey</strong><br>
        <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
      </td>
  </tr>
