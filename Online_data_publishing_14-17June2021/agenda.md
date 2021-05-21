@@ -5,11 +5,11 @@
     <td nowrap><strong>Mon, 14 June 2021</strong></td>
        <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
-    <font size="-1"><td nowrap>8:00 am - 08:30 am</td>
+  <td nowrap>8:00 am - 08:30 am</td>
     <td><strong>Welcome and introduction </strong> <br><ul>
       <li>Workshop agenda and goals</li>
       <li>Presentation: <i>"The EDI project"</i></li></ul>
-      </td></font>
+      </td>
 </tr><tr>
     <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
 </tr>
