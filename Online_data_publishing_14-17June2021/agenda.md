@@ -22,25 +22,32 @@
          <li>Presentation: <i>“Organizing data into publishable units”</i></li></ul>
    </td></font>
 </tr><tr>
-    <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
+    <td nowrap>09:30 am - 09:45 am</td><td>Break</td>
 </tr>
   <tr>
-    <td nowrap>10:15 am - 12noon</td>
-    <td><strong>Hands on: Assessment activity</strong><br><ul>
-      <li>Review your data - Analyze structure and plan organizing data into a data package.</li></ul>
+    <td nowrap>9:45 am - 10:15 am</td>
       <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
-         <li><i>“Create clean data”</i></li>
+         <li>Presentation: <i>“Create clean data”</i></li>
    </td>
-</tr><tr>
-    <td nowrap>12noon - 1:00 pm</td><td>Lunch break</td>
-</tr><tr>
-    <td nowrap>1:00 pm - 3:00 pm</td>
-    <td><strong>Hands on: Cleaning data for publishing</strong><br><ul>
+<tr>
+    <td nowrap>10:50 pm - 11:15 pm</td>
+    <td><strong>Hands on: Assessment activity</strong><br><ul>
       <li>Plan for how to clean your data</li>
       <li>Work on cleaning your data</li></ul>
-      <strong>Conclude day 1</strong>
       </td>
+</tr>    
 </tr><tr>
+    <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
+</tr>
+<tr>
+    <td nowrap>10:50 pm - 11:15 pm</td>
+    <td><strong>Hands on: Assessment activity</strong><br><ul>
+      <li>Plan for how to clean your data</li>
+      <li>Work on cleaning your data</li>
+      <li>Conclude the data</li></ul>
+      </td>
+</tr>    
+<tr>
     <td nowrap><strong>Thu 11 June 2020</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 10:00 am</td>
