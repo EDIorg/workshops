@@ -37,7 +37,9 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
-        <td nowrap>Questions and feedback. Conclude the day.</td>
+        <td nowrap>Questions and feedback. Conclude the day.
+        <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
+  </td> 
 </tr>    
 <tr><td></td><td><br></td></tr>    
 <tr>
@@ -54,20 +56,20 @@
     <td nowrap>9:10 am - 10:00 am</td>
   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
-      <strong>Hands on: Review your own metadata</strong>
+      <strong>Hands on:</strong> Review your own metadata
   </td>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td></tr>
   <tr>
     <td nowrap>10:15 am - 11:30 am</td>  
-   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
-      <li>Presentation: <i>"Demonstration of ezEML - a tool to create EML"</i></li></ul>
-      <strong>Hands on: Create metadata with ezEML</strong></td>
+   <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
+      <strong>Hands on:</strong> Create metadata with ezEML</td>
 </tr><tr>
     <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
-    <td nowrap>Questions and feedback. 
+    <td nowrap>Questions and feedback.
+      <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.</td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
@@ -76,7 +78,7 @@
     <td nowrap>8:00 am - 8:45 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
     <li>Presentation: <i>"Overview of data upload and publishing in the EDI data portal"</i></li></ul>
-      <strong>Hands on: Demonstration of a data package upload</strong></td>
+      <strong>Demonstration: Data package upload</strong></td>
 </tr><tr>
     <td nowrap>8:45 am - 9:00 am</td><td>Break</td>
 </tr><tr>
@@ -96,7 +98,7 @@
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td><td>
         <strong>Conclude day 3: Survey</strong><br>
-       <strong>Optional Hands-on: Continue cleaning data, creating metadata, uploading data and metadata.</strong>
+       <strong>Optional with EDI-team help:</strong> Work on your own data: Organize, cleaning, create metadata, upload data and metadata.
      </td>
  </tr>
 </table>
