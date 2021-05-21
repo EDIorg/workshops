@@ -6,25 +6,20 @@
        <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
     <font size="-1"><td nowrap>8:00 am - 08:30 am</td>
-    <td><strong>Welcome: </strong> Introduction, workshop agenda and goals<br><ul>
-      <li><i>Introduction to EDI</i></li></ul>
+    <td><strong>Welcome and introduction </strong> <br><ul>
+      <li>Workshop agenda and goals</li>
+      <li>Presentation: <i>"The EDI project"</i></li></ul>
       </td></font>
 </tr><tr>
     <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
 </tr>
     <tr>
-    <td nowrap><strong>Mon, 14 June 2021</strong></td>
-       <td><strong>"The EDI project" and "Organizing & cleaning data for publishing"</strong></td>
-</tr><tr>
-    <font size="-1"><td nowrap>8:00 am - 10:00 am</td>
-    <td><strong>Welcome: </strong> Workshop agenda, goals, technical setup<br><ul>
-      <li><i>Introduction to EDI</i></li></ul>
-      <strong>Hands on: Icebreaker</strong><ul>
+    <font size="-1"><td nowrap>8:40 am - 9:30 am</td>
+           <td nowrap><strong>Hands on: Icebreaker</strong><ul>
             <li>Group skill CV</li></ul>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
-         <li><i>“Concept of a data package”</i></li>
-      <li>Exercise: Survey on thoughts about organizing data into publishable units</li>
-        <li><i>“Organizing data into publishable units”</i></li></ul>
+         <li>Presentation: <i>“Five phases of data publishing”</i></li>
+         <li>Presentation: <i>“Organizing data into publishable units”</i></li></ul>
    </td></font>
 </tr><tr>
     <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
