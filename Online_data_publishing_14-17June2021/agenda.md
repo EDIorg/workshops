@@ -39,6 +39,7 @@
     <td nowrap>12:30 pm - 1:00 pm</td>
         <td nowrap>Questions and feedback. Conclude the day.</td>
 </tr>    
+<tr><td></td><td><br></td></tr>    
 <tr>
     <td nowrap><strong>Tue, 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
@@ -67,7 +68,9 @@
 </tr><tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
     <td nowrap>Questions and feedback. 
-</tr><tr>
+</tr>
+<tr><td></td><td><br></td></tr>
+<tr>
  <td><strong>Thu, 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 8:45 am</td>
