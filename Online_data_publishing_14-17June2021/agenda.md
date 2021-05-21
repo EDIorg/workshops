@@ -49,7 +49,7 @@
       <tr>
     <td nowrap>9:00 am - 9:10 am</td><td>Break</td></tr>
     <td nowrap>9:10 am - 10:00 am</td>
-  <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
+  <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
       <strong>Hands on: Review your own metadata</strong>
   </td>
