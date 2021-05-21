@@ -39,7 +39,7 @@
       <td strong>Questions and feedback. Conclude the day.</td>
 </tr>    
 <tr>
-    <td nowrap><strong>Tue 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
+    <td nowrap><strong>Tue, 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
