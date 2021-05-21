@@ -38,7 +38,7 @@
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
         <td nowrap>Questions and feedback. Conclude the day.<br>
-        <strong>Optional:</strong> Work on your own data with EDI support: Organize, clean, create metadata, upload data.
+        <strong>Optional:</strong> Work on your own data with EDI support: Organize and clean.
   </td> 
 </tr>    
 <tr><td></td><td><br></td></tr>    
@@ -69,7 +69,7 @@
 </tr><tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
     <td nowrap>Questions and feedback.
-      <strong>Optional:</strong> Work on your own data with EDI support: Organize, clean, create metadata, upload data.</strong></td>
+      <strong>Optional:</strong> Work on your own data with EDI support: Organize, clean and create metadata.</strong></td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
