@@ -15,8 +15,7 @@
 </tr>
     <tr>
     <font size="-1"><td nowrap>8:40 am - 9:30 am</td>
-           <td nowrap><strong>Hands on: Icebreaker</strong><ul>
-            <li>Group skill CV</li></ul>
+           <td nowrap><strong>Hands on: Icebreaker</strong><br>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li>Presentation: <i>“Five phases of data publishing”</i></li>
          <li>Presentation: <i>“Organizing data into publishable units”</i></li></ul>
@@ -29,8 +28,7 @@
 <td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li>Presentation: <i>“Create clean data”</i></li></ul>
        <strong>Hands on: Assessment activity</strong><br><ul>
-      <li>Plan for how to clean your data</li>
-      <li>Work on cleaning your data</li></ul>
+      <li>Participants review their data, plan for how to and work on cleaning their data</li></ul>
       </td>
 </tr>    
 </tr><tr>
@@ -38,7 +36,7 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 01:00 pm</td>
-      <td strong>Questions? Conclude day.</td>
+      <td strong>Questions and feedback. Conclude the day.</td>
 </tr>    
 <tr>
     <td nowrap><strong>Tue 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
