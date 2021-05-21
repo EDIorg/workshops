@@ -15,7 +15,7 @@
 </tr>
     <tr>
     <font size="-1"><td nowrap>8:40 am - 9:30 am</td>
-           <td nowrap><strong>Hands on: Icebreaker</strong><br>
+           <td nowrap><strong>Hands on: Icebreaker</strong><br><br>
        <strong>Five phases of data publishing - (1) Organize</strong><br><ul>
          <li>Presentation: <i>“Five phases of data publishing”</i></li>
          <li>Presentation: <i>“Organizing data into publishable units”</i></li></ul>
@@ -36,21 +36,22 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:00 pm</td>
-      <td strong>Questions and feedback. Conclude the day.</td>
+        <td nowrap><li>Presentation:<i> "Tools for cleaning data: R, OpenRefine, Excel"</i></li></ul>
+          Questions and feedback. Conclude the day.</td>
 </tr>    
 <tr>
     <td nowrap><strong>Tue, 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
-      <li>Presentation: <i>"An introduction to Metadata and Data Repositories"</i></li><br>
+     <li>Presentation: <i>"An introduction to Metadata and Data Repositories"</i></li></ul>
       <strong>Hands on: Explore data repositories and review metadata in EDI, Dryad, Figshare, Zenodo</strong>
   </td>
       <tr>
     <td nowrap>9:00 am - 9:10 am</td><td>Break</td></tr>
     <td nowrap>9:10 am - 10:00 am</td>
   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
-      <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul><br>
+      <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
       <strong>Hands on: Review your own metadata</strong>
   </td>
       <tr>
@@ -58,17 +59,13 @@
   <tr>
     <td nowrap>10:15 am - 11:30 am</td>  
    <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
-      <li>Presentation: <i>"Demonstration of ezEML - a tool to create EML"</i></li>
+      <li>Presentation: <i>"Demonstration of ezEML - a tool to create EML"</i></li></ul>
       <strong>Hands on: Create metadata with ezEML</strong></td>
 </tr><tr>
     <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
-    <td nowrap>1:00 pm - 3:00 pm</td>
-    <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
-       <li><i>"Explore EML using XML Editors"</i></li>
-       <li>Demonstration of the Oxygen and Jedit editors for EML</li></ul>
-      <strong>Hands on: Continue cleaning and organizing your data/metadata & create EML.</strong><br>
-      <strong>Conclude day 2</strong></td>
+    <td nowrap>12:30 pm - 1:00 pm</td>
+    <td nowrap>Questions and feedback. 
 </tr><tr>
  <td><strong>Thu 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
