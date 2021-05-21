@@ -29,6 +29,7 @@
       <strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li>Presentation: <i>“Create clean data”</i></li>
    </td>
+    </tr>
 <tr>
     <td nowrap>10:50 pm - 11:15 pm</td>
     <td><strong>Hands on: Assessment activity</strong><br><ul>
