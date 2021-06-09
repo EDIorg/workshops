@@ -55,7 +55,7 @@
     <td nowrap>9:10 am - 10:00 am</td>
   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
-      <strong>Hands on:</strong> Review your own metadata
+      <strong>Hands on:</strong> In groups, participants review metadata for a dataset.
   </td>
       <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td></tr>
