@@ -37,7 +37,7 @@
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
-        <td nowrap><strong>Working Session (optional):</strong> Work on your own data with EDI support: Organize and clean.
+        <td nowrap><strong>Working session (optional):</strong> Work on your own data with EDI support: Organize and clean.
   </td> 
 </tr>    
 <tr><td></td><td><br></td></tr>    
@@ -67,18 +67,18 @@
     <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
-  <td nowrap><strong>Working Session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
+  <td nowrap><strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
  <td><strong>Thu, 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
-    <td nowrap>8:00 am - 8:45 am</td>
+    <td nowrap>8:00 am - 8:50 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
     <li>Presentation: <i>"Overview of data upload and publishing in the EDI data portal"</i></li></ul>
       <strong>Demonstration: Data package upload</strong></td>
 </tr><tr>
-    <td nowrap>8:45 am - 9:00 am</td><td>Break</td>
+    <td nowrap>8:50 am - 9:00 am</td><td>Break</td>
 </tr><tr>
     <td nowrap>9:00 am - 10:00</td>
     <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
@@ -86,17 +86,19 @@
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
 </tr>
 <tr>
-    <td nowrap>10:15 am - 11:30 am</td>  
+    <td nowrap>10:15 am - 11:15 am</td>  
    <td><strong>Five phases of data publishing - (5) Cite</strong><br><ul>
       <li>Presentation: <i>Conclusion - Using data packages in the EDI repository</i></li></ul>
 </tr>
  <tr>
-    <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>11:15noon - 11:45 pm</td><td><strong>Conclude the workshop: Survey</strong></td>
 </tr>
 <tr>
-    <td nowrap>12:30 pm - 1:00 pm</td><td>
-        <strong>Conclude the workshop: Survey</strong><br>
-       <strong>Optional:</strong> Work on your own data with EDI support: Organize, clean, create metadata, upload data.</strong></td>
+    <td nowrap>11:45noon - 12:30 pm</td><td>Lunch break</td>
+</tr>
+<tr>
+    <td nowrap>12:30 pm - 3:00 pm</td><td>
+        <strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, create metadata, upload data.</strong></td>
      </td>
  </tr>
 </table>
