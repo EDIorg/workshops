@@ -33,12 +33,11 @@
       </td>
 </tr>    
 </tr><tr>
-    <td nowrap>11:30noon - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>11:15noon - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
-    <td nowrap>12:30 pm - 1:00 pm</td>
-        <td nowrap>Questions and feedback. Conclude the day.<br>
-        <strong>Optional:</strong> Work on your own data with EDI support: Organize and clean.
+    <td nowrap>12:30 pm - 1:30 pm</td>
+        <td nowrap><strong>Working Session (optional):</strong> Work on your own data with EDI support: Organize and clean.
   </td> 
 </tr>    
 <tr><td></td><td><br></td></tr>    
