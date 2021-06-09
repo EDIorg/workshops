@@ -62,13 +62,12 @@
   <tr>
     <td nowrap>10:15 am - 11:30 am</td>  
    <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
-      <strong>Hands on:</strong> Create metadata with ezEML</td>
+      <strong>Hands on:</strong> Create EML metadata with ezEML</td>
 </tr><tr>
     <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
-    <td nowrap>12:30 pm - 1:00 pm</td>
-    <td nowrap>Questions and feedback.
-      <strong>Optional:</strong> Work on your own data with EDI support: Organize, clean and create metadata.</strong></td>
+    <td nowrap>12:30 pm - 1:30 pm</td>
+  <td nowrap><strong>Working Session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
