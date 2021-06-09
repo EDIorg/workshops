@@ -29,7 +29,7 @@
          <li>Presentation: <i>“Create clean data”</i></li>
          <li>Presentation: <i>"Tools for cleaning data: R, OpenRefine, Excel"</i></li></ul>
        <strong>Hands on: Assessment activity</strong><br><ul>
-      <li>Participants review their data, plan for how to and work on cleaning their data</li></ul>
+      <li>In groups, participants review a dataset, plan for how to organize and clean the data</li></ul>
       </td>
 </tr>    
 </tr><tr>
