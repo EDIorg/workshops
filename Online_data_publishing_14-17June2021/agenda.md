@@ -26,8 +26,8 @@
   <tr>
     <td nowrap>9:45 am - 11:30 am</td>
 <td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
-         <li>Presentation: <i>“Create clean data”</i></li>
-         <li>Presentation: <i>"Tools for cleaning data: R, OpenRefine, Excel"</i></li></ul>
+         <li>Presentation: <i>“Prepare tabular data for publishing”</i></li>
+         </ul>
        <strong>Hands on: Assessment activity</strong><br><ul>
       <li>In groups, participants review a dataset, plan for how to organize and clean the data</li></ul>
       </td>
