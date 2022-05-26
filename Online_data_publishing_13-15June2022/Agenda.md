@@ -63,8 +63,9 @@
   <tr>
     <td nowrap>10:00 am - 11:30 am</td>  
    <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
-      <strong>Hands on: Create Metadata</strong></td>
+      <strong>Hands on: Create Metadata</strong>
       <ul><li>Working individually, participants develop metadata using ezEML</li></lu>
+  </td>
    </tr><tr>
     <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
@@ -73,7 +74,7 @@
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
- <td><strong>Thu, 17 June 2021</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
+ <td><strong>Thu, 16 June 2022</strong></td><td><strong> Publishing data in the EDI repository</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 8:50 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
