@@ -5,7 +5,7 @@
     <td nowrap><strong>Mon, 13 June 2022</strong></td>
        <td><strong>Welcome and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
-  <td nowrap>8:00 am - 08:30 am</td>
+  <td nowrap>8:00 am - 8:30 am</td>
     <td><strong>Welcome and introduction </strong> <br><ul>
       <li>Workshop agenda and goals</li>
       <li>Presentation: <i>"The EDI project"</i></li></ul>
