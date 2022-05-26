@@ -24,7 +24,7 @@
     <td nowrap>09:35 am - 09:45 am</td><td>Break</td>
 </tr>
   <tr>
-    <td nowrap>9:45 am - 11:30 am</td>
+    <td nowrap>9:45 am - 11:15 am</td>
 <td nowrap><strong>Five phases of data publishing - (2) Clean</strong><br><ul>
          <li>Presentation: <i>“Prepare tabular data for publishing”</i></li>
          </ul>
@@ -42,29 +42,30 @@
 </tr>    
 <tr><td></td><td><br></td></tr>    
 <tr>
-    <td nowrap><strong>Tue, 15 June 2021</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
+    <td nowrap><strong>Tue, 14 June 2022</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
      <li>Presentation: <i>"An introduction to metadata and data repositories"</i></li></ul>
-      <strong>Hands on: Explore data repositories</strong>
+      <strong>Hands on: Explore Data Repositories</strong>
      <ul><li> Review metadata in EDI, Dryad, Figshare, Zenodo</li></ul>
   </td>
       <tr>
     <td nowrap>9:00 am - 9:10 am</td><td>Break</td></tr>
-    <td nowrap>9:10 am - 10:00 am</td>
+    <td nowrap>9:10 am - 9:50 am</td>
   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
       <li>Presentation: <i>"Ecological Metadata Language (EML): A Metadata Standard for Ecological Sciences"</i></li></ul>
-      <strong>Hands on:</strong> In groups, participants review metadata for a dataset.
+      <strong>Hands on:</strong> In groups, participants review an EML file.
   </td>
       <tr>
-    <td nowrap>10:00 am - 10:15 am</td><td>Break</td></tr>
+    <td nowrap>9:50 am - 10:00 am</td><td>Break</td></tr>
   <tr>
-    <td nowrap>10:15 am - 11:30 am</td>  
+    <td nowrap>10:00 am - 10:30 am</td>  
    <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
       <strong>Hands on:</strong> Create EML metadata with ezEML</td>
+   <td><strong>Create metadata with ezEML</strong><br><br>
 </tr><tr>
-    <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>10:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
   <td nowrap><strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
