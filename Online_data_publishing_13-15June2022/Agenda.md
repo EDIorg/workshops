@@ -62,7 +62,7 @@
     <td nowrap>9:50 am - 10:00 am</td><td>Break</td></tr>
   <tr>
     <td nowrap>10:00 am - 11:30 am</td>  
-   <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
+   <td><strong>Demonstration: ezEML - a tool to create EML</strong><br><br>
       <strong>Hands on: Create Metadata</strong>
       <ul><li>Working individually, participants develop metadata using ezEML</li></lu>
   </td>
@@ -84,7 +84,9 @@
     <td nowrap>8:50 am - 9:00 am</td><td>Break</td>
 </tr><tr>
     <td nowrap>9:00 am - 10:00</td>
-    <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.</td>
+    <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.
+        <ul><li>Working in groups, participants reserve an identifier, evaluate and upload an EML document to the EDI repository.</li></lu>
+          </td>
 <tr>
     <td nowrap>10:00 am - 10:15 am</td><td>Break</td>
 </tr>
