@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td nowrap><strong>Mon, 14 June 2021</strong></td>
+    <td nowrap><strong>Mon, 13 June 2022</strong></td>
        <td><strong>Welcome and "Organizing & cleaning data for publishing"</strong></td>
 </tr><tr>
   <td nowrap>8:00 am - 08:30 am</td>
