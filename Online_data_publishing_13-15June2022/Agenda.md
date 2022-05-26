@@ -60,11 +60,10 @@
       <tr>
     <td nowrap>9:50 am - 10:00 am</td><td>Break</td></tr>
   <tr>
-    <td nowrap>10:00 am - 10:30 am</td>  
+    <td nowrap>10:00 am - 11:45 am</td>  
    <td><strong>Demonstration: ezEML - a tool to create EML"</strong><br><br>
-      <strong>Hands on:</strong> Create EML metadata with ezEML</td>
-   <td><strong>Create metadata with ezEML</strong><br><br>
-</tr><tr>
+     <strong>Hands on: Create EML metadata with ezEML</strong></td>
+   </tr><tr>
     <td nowrap>10:30 am - 12:30 pm</td><td>Lunch break</td>
 </tr><tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
