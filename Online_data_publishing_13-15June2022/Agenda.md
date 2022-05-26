@@ -11,7 +11,7 @@
       <li>Presentation: <i>"The EDI project"</i></li></ul>
       </td>
 </tr><tr>
-    <td nowrap>08:30 am - 08:40 am</td><td>Break</td>
+    <td nowrap>8:30 am - 8:40 am</td><td>Break</td>
 </tr>
     <tr>
     <font size="-1"><td nowrap>8:40 am - 9:35 am</td>
@@ -21,7 +21,7 @@
          <li>Presentation: <i>“Organizing data into publishable units”</i></li></ul>
    </td></font>
 </tr><tr>
-    <td nowrap>09:35 am - 09:45 am</td><td>Break</td>
+    <td nowrap>9:35 am - 9:45 am</td><td>Break</td>
 </tr>
   <tr>
     <td nowrap>9:45 am - 11:15 am</td>
