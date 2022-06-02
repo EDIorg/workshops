@@ -1,6 +1,6 @@
 ## EDI Online Workshop “Publishing environmental data in the EDI repository”
 
-**EDI Zoom, June 14-17, 2021**
+**EDI Zoom, June 13-15, 2022**
 
 **Important information:**
 
