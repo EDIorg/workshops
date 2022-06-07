@@ -85,7 +85,7 @@
     <td nowrap>8:50 am - 9:00 am</td><td>Break</td>
 </tr><tr>
     <td nowrap>9:00 am - 10:00</td>
-    <td><strong>Hands-on:</strong> Upload data and metadata to the EDI Data Repository.
+    <td><strong>Hands-on: Upload data and metadata to the EDI Data Repository.</strong>
         <ul><li>Working in groups, participants reserve an identifier, evaluate and upload an EML document to the EDI repository.</li></lu>
           </td>
 <tr>
