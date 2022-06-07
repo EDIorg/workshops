@@ -103,7 +103,7 @@
     <td nowrap>11:45noon - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
-    <td nowrap>12:30 pm - 3:00 pm</td><td>
+    <td nowrap>12:30 pm - 2:00 pm</td><td>
         <strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, create metadata, upload data.</strong></td>
      </td>
  </tr>
