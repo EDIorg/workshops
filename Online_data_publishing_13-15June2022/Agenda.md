@@ -62,16 +62,16 @@
     <td nowrap>9:50 am - 10:00 am</td><td>Break</td></tr>
   <tr>
     <td nowrap>10:00 am - 11:45 am</td>  
-   <td><strong>
-     <li> Presentation: <i>"ezEML - a tool to create EML"</i></strong><br><br>
+   <td><strong>Five phases of data publishing - (3) Describe continued</strong><br><ul>
+     <li> Presentation: <i>"ezEML - a tool to create EML"</i></li></ul>
       <strong>Hands on: Create Metadata</strong>
       <ul><li>Working individually, participants develop metadata using ezEML</li></lu>
   </td>
    </tr><tr>
-    <td nowrap>11:30 am - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>11:45 am - 12:45 pm</td><td>Lunch break</td>
 </tr><tr>
-    <td nowrap>12:30 pm - 1:30 pm</td>
-  <td nowrap><strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
+    <td nowrap>12:45 pm - 1:30 pm</td>
+  <td><strong>Working session (optional):</strong> Work on your own data with EDI support: Organize, clean, metadata review and entry in ezEML.</td>
 </tr>
 <tr><td></td><td><br></td></tr>
 <tr>
