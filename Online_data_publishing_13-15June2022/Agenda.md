@@ -80,7 +80,7 @@
     <td nowrap>8:00 am - 8:50 am</td>
     <td><strong>Five phases of data publishing - (4) Upload</strong><br><ul>
     <li>Presentation: <i>"Overview of data upload and publishing in the EDI data portal"</i></li></ul>
-      <strong>Demonstration: Data package upload</strong></td>
+      
 </tr><tr>
     <td nowrap>8:50 am - 9:00 am</td><td>Break</td>
 </tr><tr>
