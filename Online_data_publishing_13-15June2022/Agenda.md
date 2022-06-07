@@ -48,7 +48,7 @@
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
      <li>Presentation: <i>"An introduction to metadata and data repositories"</i></li></ul>
       <strong>Hands on: Explore Data Repositories</strong>
-     <ul><li> In groups, participants review metadata in EDI, Dryad, Figshare, Zenodo</li></ul>
+     <ul><li> In groups, participants review metadata in EDI, Dryad, Zenodo</li></ul>
   </td>
       <tr>
     <td nowrap>9:00 am - 9:10 am</td><td>Break</td></tr>
@@ -61,8 +61,9 @@
       <tr>
     <td nowrap>9:50 am - 10:00 am</td><td>Break</td></tr>
   <tr>
-    <td nowrap>10:00 am - 11:30 am</td>  
-   <td><strong>Demonstration: ezEML - a tool to create EML</strong><br><br>
+    <td nowrap>10:00 am - 11:45 am</td>  
+   <td><strong>
+     <li> Presentation: <i>"ezEML - a tool to create EML"</i></strong><br><br>
       <strong>Hands on: Create Metadata</strong>
       <ul><li>Working individually, participants develop metadata using ezEML</li></lu>
   </td>
