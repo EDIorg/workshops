@@ -33,7 +33,7 @@
       </td>
 </tr>    
 </tr><tr>
-    <td nowrap>11:15noon - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>11:15 - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
     <td nowrap>12:30 pm - 1:30 pm</td>
@@ -42,7 +42,7 @@
 </tr>    
 <tr><td></td><td><br></td></tr>    
 <tr>
-    <td nowrap><strong>Tue, 14 June 2022</strong></td><td><strong>Metadata in the Ecological Metdata Language (EML)</strong></td>
+    <td nowrap><strong>Tue, 14 June 2022</strong></td><td><strong>Metadata in the Ecological Metadata Language (EML)</strong></td>
 </tr><tr>
     <td nowrap>8:00 am - 9:00 am</td>
    <td><strong>Five phases of data publishing - (3) Describe</strong><br><ul>
