@@ -97,10 +97,10 @@
       <li>Presentation: <i>Conclusion - Using data packages in the EDI repository</i></li></ul>
 </tr>
  <tr>
-    <td nowrap>11:15noon - 11:45 pm</td><td><strong>Conclude the workshop: Survey</strong></td>
+    <td nowrap>11:15 - 11:45 pm</td><td><strong>Conclude the workshop: Survey</strong></td>
 </tr>
 <tr>
-    <td nowrap>11:45noon - 12:30 pm</td><td>Lunch break</td>
+    <td nowrap>11:45 - 12:30 pm</td><td>Lunch break</td>
 </tr>
 <tr>
     <td nowrap>12:30 pm - 2:00 pm</td><td>
